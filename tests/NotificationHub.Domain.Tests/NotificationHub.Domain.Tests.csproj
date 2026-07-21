@@ -18,4 +18,8 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\NotificationHub.Domain\NotificationHub.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
